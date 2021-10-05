@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Target-Charity-Drive Up
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Github License](https://img.shields.io/badge/license-none-blue.svg)
 
-## Available Scripts
+<!-- <img src="Assets/four.png"> -->
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Description
+Order items that can be donated to your choice of charity through Target Drive Up. This makes it easier for people to donate items, making it more likely that they will donate, thus providing more help to charities that need it. Having the ability to donate through the app will also make more profites for Target since the items are being purchased through them.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Table of Contents
+[Installation](#installation)
 
-### `npm test`
+[Usage](#usage)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Technologies Used](#technologies)
 
-### `npm run build`
+[License](#license)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Contact](#contact)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
+No installation needed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
+Use this expansion of the Target Drive Up section of the Target app to buy items to donate to your choice of charity. Order easily just like you would for Drive Up and then at checkout choose which charity you would like it to go to.
 
-### `npm run eject`
+## Technologies
+Technologies used: React, JavaScript, Express, HTML, CSS, Node.js
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## License
+License: None
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+Contact: 
+dauphineburns@gmail.com
